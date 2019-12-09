@@ -1,0 +1,17 @@
+D:\GitHubProject\BondCalculator\BondYieldCalculator\BondYieldCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GitHubProject\BondCalculator\BondYieldCalculator\BondYieldCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GitHubProject\BondCalculator\BondYieldCalculator\BondYieldCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GitHubProject\BondCalculator\BondYieldCalculator\BondYieldCalculatorTest\bin\Debug\BondYieldCalculatorTest.dll
+D:\GitHubProject\BondCalculator\BondYieldCalculator\BondYieldCalculatorTest\bin\Debug\BondYieldCalculatorTest.pdb
+D:\GitHubProject\BondCalculator\BondYieldCalculator\BondYieldCalculatorTest\bin\Debug\BondYieldCalculator.exe
+D:\GitHubProject\BondCalculator\BondYieldCalculator\BondYieldCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\GitHubProject\BondCalculator\BondYieldCalculator\BondYieldCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\GitHubProject\BondCalculator\BondYieldCalculator\BondYieldCalculatorTest\bin\Debug\BondYieldCalculator.pdb
+D:\GitHubProject\BondCalculator\BondYieldCalculator\BondYieldCalculatorTest\bin\Debug\BondYieldCalculator.exe.config
+D:\GitHubProject\BondCalculator\BondYieldCalculator\BondYieldCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\GitHubProject\BondCalculator\BondYieldCalculator\BondYieldCalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\GitHubProject\BondCalculator\BondYieldCalculator\BondYieldCalculatorTest\obj\Debug\BondYieldCalculatorTest.csprojAssemblyReference.cache
+D:\GitHubProject\BondCalculator\BondYieldCalculator\BondYieldCalculatorTest\obj\Debug\BondYieldCalculatorTest.csproj.CoreCompileInputs.cache
+D:\GitHubProject\BondCalculator\BondYieldCalculator\BondYieldCalculatorTest\obj\Debug\BondYieldCalculatorTest.csproj.CopyComplete
+D:\GitHubProject\BondCalculator\BondYieldCalculator\BondYieldCalculatorTest\obj\Debug\BondYieldCalculatorTest.dll
+D:\GitHubProject\BondCalculator\BondYieldCalculator\BondYieldCalculatorTest\obj\Debug\BondYieldCalculatorTest.pdb
